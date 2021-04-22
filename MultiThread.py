@@ -6,6 +6,6 @@ t.start()
 print('This code executed by Thread:',current_thread().getName())
 
 
-# C:\Users\Raj Muni\Desktop>py test.py
-# This code (display function) executed by thread: Thread-1
-# This code executed by Thread: MainThread
+#C:\Users\Raj Muni\Desktop>py test.py
+#This code (display function) executed by thread: Thread-1
+#This code executed by Thread: MainThread
