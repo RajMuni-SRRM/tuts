@@ -8,16 +8,15 @@ for i in range(10):
 	print('Main Thread')
 	
 
-# C:\Users\Raj Muni\Desktop>py test.py
-# child thread
+C:\Users\Raj Muni\Desktop>py test.py
+child thread Main Thread
 # Main Thread
 # Main Thread
-# Main Thread
-# Main Thread
-# Main Thread
-# Main Thread
-# Main Thread
-# Main Thread
+Main Thread
+Main Thread
+Main Thread
+Main Thread
+Main Thread
 # Main Thread
 # Main Thread
 # child thread
@@ -45,9 +44,9 @@ for i in range(10):
 # Main Thread
 # Main Thread
 # child thread
-# Main Thread
-# child thread
-# Main Thread
+#Main Thread
+child thread
+Main Thread
 # child thread
 # Main Thread
 # child thread
